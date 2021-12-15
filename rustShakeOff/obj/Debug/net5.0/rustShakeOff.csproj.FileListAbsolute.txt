@@ -1,0 +1,16 @@
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.exe
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.deps.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.runtimeconfig.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.runtimeconfig.dev.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\ref\rustShakeOff.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\bin\Debug\net5.0\rustShakeOff.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.csproj.AssemblyReference.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.AssemblyInfoInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.AssemblyInfo.cs
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.csproj.CoreCompileInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\ref\rustShakeOff.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\rustShakeOff\obj\Debug\net5.0\rustShakeOff.genruntimeconfig.cache
