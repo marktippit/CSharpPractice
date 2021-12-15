@@ -1,0 +1,5 @@
+C:\Users\markt\Desktop\Practice\CSharpPractice\twoNumberSum\obj\Debug\net5.0\twoNumberSum.csproj.AssemblyReference.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\twoNumberSum\obj\Debug\net5.0\twoNumberSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markt\Desktop\Practice\CSharpPractice\twoNumberSum\obj\Debug\net5.0\twoNumberSum.AssemblyInfoInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\twoNumberSum\obj\Debug\net5.0\twoNumberSum.AssemblyInfo.cs
+C:\Users\markt\Desktop\Practice\CSharpPractice\twoNumberSum\obj\Debug\net5.0\twoNumberSum.csproj.CoreCompileInputs.cache
