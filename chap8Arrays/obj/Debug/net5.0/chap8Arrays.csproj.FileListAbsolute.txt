@@ -1,0 +1,16 @@
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.csproj.AssemblyReference.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.AssemblyInfoInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.AssemblyInfo.cs
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.csproj.CoreCompileInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.exe
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.deps.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.runtimeconfig.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.runtimeconfig.dev.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\ref\chap8Arrays.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\bin\Debug\net5.0\chap8Arrays.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\ref\chap8Arrays.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\chap8Arrays\obj\Debug\net5.0\chap8Arrays.genruntimeconfig.cache
