@@ -1,0 +1,16 @@
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.exe
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.deps.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.runtimeconfig.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.runtimeconfig.dev.json
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\ref\CardShufflingAndDealingSim.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\bin\Debug\net5.0\CardShufflingAndDealingSim.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.csproj.AssemblyReference.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.AssemblyInfoInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.AssemblyInfo.cs
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.csproj.CoreCompileInputs.cache
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\ref\CardShufflingAndDealingSim.dll
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.pdb
+C:\Users\markt\Desktop\Practice\CSharpPractice\CardShufflingAndDealingSim\obj\Debug\net5.0\CardShufflingAndDealingSim.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CardShufflingAndDealingSim/1.0.0": {
+        "runtime": {
+          "CardShufflingAndDealingSim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardShufflingAndDealingSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
